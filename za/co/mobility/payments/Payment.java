@@ -1,3 +1,4 @@
-public class Payment{
+public class Payment {
 
+    private int amount;
 }
